@@ -1,1 +1,1 @@
-# health_care_small_doc_qa
+# tallgrass_small_docs_qa
