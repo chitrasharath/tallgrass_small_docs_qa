@@ -1,0 +1,14 @@
+Tallgrass Home Care - Service Rate Sheet,,,,,,
+Effective 2026-01-01. Rates are USD per hour unless the notes say otherwise.,,,,,,
+,,,,,,
+service_code,service_name,weekday_rate,weekend_rate,min_visit_hours,requires_rn,notes
+PC-01,Personal Care,34.00,37.50,2,No,"bathing, dressing, grooming"
+CM-02,Companionship,30.00,33.00,3,No,
+RS-03,Respite Care,35.00,38.50,4,No,"relief for a family caregiver; book 48 hours ahead"
+SN-04,Skilled Nursing Visit,92.00,105.00,1,Yes,
+MM-05,Medication Management,68.00,75.00,1,Yes,weekly pill organizer setup
+ON-06,Overnight Care,39.00,42.00,8,No,caregiver stays awake
+LI-07,Live-In Care,395.00,420.00,24,No,flat daily rate (not hourly)
+TR-08,Transportation and Errands,32.00,35.00,2,No,plus mileage billed to the client at $0.85 per mile
+,,,,,,
+Note: holiday visits are billed at 1.5 times the weekday rate.,,,,,,

@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/processed/embeddings_*.npy
+data/processed/query_embeddings_*.json

@@ -1,0 +1,60 @@
+[
+  {
+    "doc_id": "caregiver_handbook",
+    "source_file": "caregiver_handbook.md",
+    "title": "Tallgrass Home Care - Caregiver Handbook",
+    "doc_date": "January 2026",
+    "metadata": {},
+    "page_checks": []
+  },
+  {
+    "doc_id": "scanned_memo_snow_days",
+    "source_file": "scanned_memo_snow_days.pdf",
+    "title": "Snow day policy for this winter",
+    "doc_date": "November 3, 2025",
+    "metadata": {
+      "to": "All caregivers and schedulers",
+      "from": "Marcus Oyelaran, Operations Director",
+      "date": "November 3, 2025",
+      "re": "Snow day policy for this winter"
+    },
+    "page_checks": [
+      {
+        "page": 1,
+        "chars": 0,
+        "images": 1,
+        "two_column": false,
+        "scanned": true,
+        "ocr_confidence": 95.1
+      }
+    ]
+  },
+  {
+    "doc_id": "service_rates_2026",
+    "source_file": "service_rates_2026.csv",
+    "title": "Tallgrass Home Care - Service Rate Sheet",
+    "doc_date": "2026-01-01",
+    "metadata": {
+      "columns": "service_code, service_name, weekday_rate, weekend_rate, min_visit_hours, requires_rn, notes",
+      "rows": "8"
+    },
+    "page_checks": []
+  },
+  {
+    "doc_id": "staff_newsletter_spring_2026",
+    "source_file": "staff_newsletter_spring_2026.pdf",
+    "title": "The Tallgrass Caregiver - Spring 2026",
+    "doc_date": "Spring 2026",
+    "metadata": {},
+    "page_checks": [
+      {
+        "page": 1,
+        "chars": 1724,
+        "images": 0,
+        "two_column": true,
+        "scanned": false,
+        "ocr_confidence": null
+      }
+    ]
+  }
+]
